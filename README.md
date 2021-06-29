@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Meu nome é Mauricio Hartmann, sou um desenvolvedor web Full Stack apaixonado por tecnologia e inovação. Estou sempre procurando aprender algo novo e de vez em quando crio um projeto por aqui pra testar.
+Meu nome é [Mauricio Hartmann](https://www.linkedin.com/in/mauricio-hartmann/), sou um desenvolvedor web Full Stack apaixonado por tecnologia e inovação. Estou sempre procurando aprender algo novo e de vez em quando crio um projeto por aqui pra testar.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hartmannm&theme=tokyonight&layout=compact)
 ![Hartmann's github stats](https://github-readme-stats.vercel.app/api?username=hartmannm&show_icons=true&theme=tokyonight)
@@ -29,3 +29,16 @@ Meu nome é Mauricio Hartmann, sou um desenvolvedor web Full Stack apaixonado po
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?color=blue&style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+-------------------------------------------
+
+## Entre em contato
+
+<p style="justify-content:center width: 100%">
+   <a href="https://www.linkedin.com/in/mauricio-hartmann/">
+    <img align="left" alt="Mauricio Hartmann | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:mauricio.hartmann@outlook.com">
+    <img align="left" alt="Mauricio Hartmann | Outlook" width="26px" src="https://github.com/sempostma/office365-icons/blob/master/svg/outlook.svg" />
+  </a>
+</p>
