@@ -2,8 +2,10 @@
 
 Meu nome é [Mauricio Hartmann](https://www.linkedin.com/in/mauricio-hartmann/), sou um desenvolvedor web Full Stack apaixonado por tecnologia e inovação. Estou sempre procurando aprender algo novo e de vez em quando crio um projeto por aqui pra testar.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hartmannm&theme=tokyonight&layout=compact)
-![Hartmann's github stats](https://github-readme-stats.vercel.app/api?username=hartmannm&show_icons=true&theme=tokyonight)
+<p>
+  <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hartmannm&theme=dark&show_icons=true"/>
+  <img height="230px" src="https://github-readme-stats.vercel.app/api?username=hartmannm&theme=dark&show_icons=true"/>
+</p>
 
 -------------------------------------------
 
