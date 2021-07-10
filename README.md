@@ -2,6 +2,19 @@
 
 Meu nome é [Mauricio Hartmann](https://www.linkedin.com/in/mauricio-hartmann/), sou um desenvolvedor web Full Stack apaixonado por tecnologia e inovação. Estou sempre procurando aprender algo novo e de vez em quando crio um projeto por aqui pra testar.
 
+## Entre em contato
+
+<p style="justify-content:center width: 100%">
+   <a href="https://www.linkedin.com/in/mauricio-hartmann/">
+    <img align="left" alt="Mauricio Hartmann | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:mauricio.hartmann@outlook.com">
+    <img align="left" alt="Mauricio Hartmann | Outlook" width="26px" src="https://github.com/sempostma/office365-icons/blob/master/svg/outlook.svg" />
+  </a>
+</p>
+
+--------------------------------------------
+
 <p>
   <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hartmannm&theme=dark&show_icons=true"/>
   <img height="230px" src="https://github-readme-stats.vercel.app/api?username=hartmannm&theme=dark&show_icons=true"/>
@@ -47,14 +60,3 @@ Meu nome é [Mauricio Hartmann](https://www.linkedin.com/in/mauricio-hartmann/),
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-
-## Entre em contato
-
-<p style="justify-content:center width: 100%">
-   <a href="https://www.linkedin.com/in/mauricio-hartmann/">
-    <img align="left" alt="Mauricio Hartmann | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:mauricio.hartmann@outlook.com">
-    <img align="left" alt="Mauricio Hartmann | Outlook" width="26px" src="https://github.com/sempostma/office365-icons/blob/master/svg/outlook.svg" />
-  </a>
-</p>
