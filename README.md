@@ -16,8 +16,8 @@ Meu nome é [Mauricio Hartmann](https://www.linkedin.com/in/mauricio-hartmann/),
 --------------------------------------------
 
 <p>
-  <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hartmannm&theme=dark&show_icons=true"/>
-  <img height="230px" src="https://github-readme-stats.vercel.app/api?username=hartmannm&theme=dark&show_icons=true"/>
+  <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-hartmann&theme=dark&show_icons=true"/>
+  <img height="230px" src="https://github-readme-stats.vercel.app/api?username=mauricio-hartmann&theme=dark&show_icons=true"/>
 </p>
 
 ## Languages
